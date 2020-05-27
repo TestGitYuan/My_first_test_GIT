@@ -7,7 +7,7 @@
 ## header 2
 ### header 4
 
-$\lim_x^x \mathbb{x}$
+$$\lim_x^x \mathbb{x}$$
 
 - point 1
 - point 2
